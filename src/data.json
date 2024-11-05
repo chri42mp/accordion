@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Hvad er React?",
+    "answer": "React er et JavaScript-bibliotek til opbygning af brugergrænseflader."
+  },
+  {
+    "question": "Hvordan fungerer state i React?",
+    "answer": "State er en objekt, der holder styr på data i en komponent. Når state ændres, genrender komponenten."
+  },
+  {
+    "question": "Hvad er props?",
+    "answer": "Props er en forkortelse for 'properties' og bruges til at sende data fra én komponent til en anden."
+  }
+]
